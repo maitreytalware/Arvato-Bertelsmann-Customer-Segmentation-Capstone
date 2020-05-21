@@ -47,6 +47,8 @@ When planning a targeted marketing campaign, it is also necessary to differentia
 ├── Part 1- Customer Segmentation Report.ipynb -----# UNSUPERVISED LEARNING
 ├── Part 2 and Part 3.ipynb --------# SUPERVISED LEARNING AND KAGGLE SUBMISSION
 ├── Clean.py-------------------------# CONTAINS FINAL CLEANING AND MODEL LOGIC (NOT UPLOADED)
+├── reg_model.sav-------------------------# SUPERVISED LEARNING MODEL
+├── model_k.sav-------------------------# K-MEANS MODEL
 ├── Readme.md-------------------------# README FILE
 
 ```
