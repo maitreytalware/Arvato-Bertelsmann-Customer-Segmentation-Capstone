@@ -1,6 +1,6 @@
 # Arvato Bertelsmann Customer Segmentation Capstone
  
-
+**NOTE:** Part2 and Part 3 are dependent on Clean.py which is not uploaded
 
 ### Table of contents
 
