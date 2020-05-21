@@ -102,7 +102,6 @@ The trained model was able to get a score of 0.80846 on the testing dataset whic
 ### Kaggle Competition Rank 5
 <img src='Images/Rank1.png'><img>
 
-
 <img src='Images/Rank
 .png'><img>
 
