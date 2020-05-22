@@ -8,6 +8,9 @@
  ## Github Link
  https://github.com/maitreytalware/Arvato-Bertelsmann-Customer-Segmentation-Capstone
 
+ ## Kaggle Leaderboard
+ https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard
+
 ### Table of contents
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
