@@ -2,6 +2,9 @@
  
 **NOTE:** Part2 and Part 3 are dependent on Clean.py which is not uploaded
 
+## Medium Link :
+ https://medium.com/@mt3915/customer-segmentation-for-arvato-bertelsmann-b0026efbb554
+
 ### Table of contents
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
